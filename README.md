@@ -7,7 +7,8 @@
 ```
 git config --global user.name "lshwan"
 ```
-
+# github 가입시 입력한 이메일과 동일해야한다
 ```
-git config --global user.name "lshwan"
+git config --global user.email "tjdwns8314@naver.com"
+
 ```
